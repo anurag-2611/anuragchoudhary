@@ -13,7 +13,7 @@ export const Contact = () => {
               Contact Info
             </h2>
             <ul className="text-gray-700 text-base space-y-2 pr-5">
-              <li className="mb-6">
+              <li className="mb-6 pr-10">
                 <span className=" font-semibold text-blue-500">Email:</span>{" "}
                 anuragchoudhary126@gmail.com
               </li>
