@@ -12,12 +12,12 @@ export const Contact = () => {
             <h2 className="text-xl font-semibold text-blue-600 mb-6">
               Contact Info
             </h2>
-            <ul className="text-gray-700 text-base space-y-2 flex-wrap">
+            <ul className="text-gray-700 text-base space-y-2 pr-5">
               <li className="mb-6">
                 <span className=" font-semibold text-blue-500">Email:</span>{" "}
                 anuragchoudhary126@gmail.com
               </li>
-              <li className="mb-4">
+              <li className="mb-6">
                 <span className="font-semibold text-blue-500">Phone:</span> +91
                 8319038102
               </li>
@@ -26,7 +26,7 @@ export const Contact = () => {
                 607 m.n.kelod, Dewas road, Dewas
               </li>
             </ul>
-            <div className="mt-8">
+            <div className="mt-10">
               <h2 className="text-xl font-semibold text-blue-600 mb-6">
                 Follow Me
               </h2>
