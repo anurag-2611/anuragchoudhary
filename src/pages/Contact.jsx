@@ -64,11 +64,11 @@ export const Contact = () => {
               </ul>
             </div>
           </div>
-          <div>
+          <div className="pr-5">
             <h2 className="text-xl font-semibold text-blue-600 mb-3">
               Send a Message
             </h2>
-            <form className="flex flex-col gap-4">
+            <form className="flex flex-col gap-4 w-[90%]">
               <input
                 type="text"
                 placeholder="Your Name"
