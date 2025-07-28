@@ -12,8 +12,8 @@ export const Contact = () => {
             <h2 className="text-xl font-semibold text-blue-600 mb-6">
               Contact Info
             </h2>
-            <ul className="text-gray-700 text-base space-y-2">
-              <li className="mb-4">
+            <ul className="text-gray-700 text-base space-y-2 flex-wrap">
+              <li className="mb-6">
                 <span className=" font-semibold text-blue-500">Email:</span>{" "}
                 anuragchoudhary126@gmail.com
               </li>
